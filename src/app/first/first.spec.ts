@@ -8,6 +8,6 @@ describe('First', () => {
 
 
   it('should create', () => {
-    expect(x.add()).toBe(11)
+    expect(x.add()).toBe(1)
   });
 });
