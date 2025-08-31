@@ -9,4 +9,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   protected title = 'angular100';
+
+  check()
+  {
+    return 100;
+  }
 }
